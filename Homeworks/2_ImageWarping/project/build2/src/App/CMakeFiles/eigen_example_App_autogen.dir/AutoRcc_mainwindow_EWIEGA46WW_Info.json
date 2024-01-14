@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/eigen_example_App_autogen",
+	"CMAKE_BINARY_DIR" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/src/App",
+	"CMAKE_SOURCE_DIR" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project",
+	"INCLUDE_DIR" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/eigen_example_App_autogen/include",
+	"INCLUDE_DIR_Debug" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/eigen_example_App_autogen/include_Debug",
+	"INCLUDE_DIR_MinSizeRel" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/eigen_example_App_autogen/include_MinSizeRel",
+	"INCLUDE_DIR_RelWithDebInfo" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/eigen_example_App_autogen/include_RelWithDebInfo",
+	"INCLUDE_DIR_Release" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/eigen_example_App_autogen/include_Release",
+	"INPUTS" : 
+	[
+		"D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/src/App/Resources/images/new.jpg",
+		"D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/src/App/Resources/images/save.jpg",
+		"D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/src/App/Resources/images/open.jpg"
+	],
+	"LOCK_FILE" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/CMakeFiles/eigen_example_App_autogen.dir/AutoRcc_mainwindow_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : true,
+	"OPTIONS" : [ "-name", "mainwindow" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_mainwindow.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/Qt5.12.2/5.12.2/msvc2017_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/CMakeFiles/eigen_example_App_autogen.dir/AutoRcc_mainwindow_EWIEGA46WW_Used.txt",
+	"SETTINGS_FILE_Debug" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/CMakeFiles/eigen_example_App_autogen.dir/AutoRcc_mainwindow_EWIEGA46WW_Used_Debug.txt",
+	"SETTINGS_FILE_MinSizeRel" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/CMakeFiles/eigen_example_App_autogen.dir/AutoRcc_mainwindow_EWIEGA46WW_Used_MinSizeRel.txt",
+	"SETTINGS_FILE_RelWithDebInfo" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/CMakeFiles/eigen_example_App_autogen.dir/AutoRcc_mainwindow_EWIEGA46WW_Used_RelWithDebInfo.txt",
+	"SETTINGS_FILE_Release" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/CMakeFiles/eigen_example_App_autogen.dir/AutoRcc_mainwindow_EWIEGA46WW_Used_Release.txt",
+	"SOURCE" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/src/App/mainwindow.qrc",
+	"VERBOSITY" : 0
+}

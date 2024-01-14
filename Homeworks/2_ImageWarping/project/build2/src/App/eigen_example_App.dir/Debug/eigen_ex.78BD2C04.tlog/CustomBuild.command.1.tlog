@@ -1,0 +1,42 @@
+^D:\USTC\COMPUTERGRAPHING\USTC_CG\HOMEWORKS\2_IMAGEWARPING\PROJECT\BUILD\CMAKEFILES\8C045F3A968C07DC251E0B39ECFAFE6E\AUTOUIC_(CONFIG).STAMP.RULE
+setlocal
+cd D:\USTC\ComputerGraphing\USTC_CG\Homeworks\2_ImageWarping\project\build\src\App
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\USTC\COMPUTERGRAPHING\USTC_CG\HOMEWORKS\2_IMAGEWARPING\PROJECT\BUILD\CMAKEFILES\638F38DB5ABC527CB4EDC8607D78F027\QRC_MAINWINDOW.CPP.RULE
+setlocal
+cd D:\USTC\ComputerGraphing\USTC_CG\Homeworks\2_ImageWarping\project\build\src\App
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E cmake_autorcc D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/CMakeFiles/eigen_example_App_autogen.dir/AutoRcc_mainwindow_EWIEGA46WW_Info.json Debug
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E cmake_autorcc D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/CMakeFiles/eigen_example_App_autogen.dir/AutoRcc_mainwindow_EWIEGA46WW_Info.json Release
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E cmake_autorcc D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/CMakeFiles/eigen_example_App_autogen.dir/AutoRcc_mainwindow_EWIEGA46WW_Info.json MinSizeRel
+if %errorlevel% neq 0 goto :cmEnd
+"D:\Program Files\CMake\bin\cmake.exe" -E cmake_autorcc D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/CMakeFiles/eigen_example_App_autogen.dir/AutoRcc_mainwindow_EWIEGA46WW_Info.json RelWithDebInfo
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\USTC\COMPUTERGRAPHING\USTC_CG\HOMEWORKS\2_IMAGEWARPING\PROJECT\SRC\APP\CMAKELISTS.TXT
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SD:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project -BD:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build --check-stamp-file D:/USTC/ComputerGraphing/USTC_CG/Homeworks/2_ImageWarping/project/build/src/App/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,8 @@
+D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/hwproject/build-temp-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/temp.dir
+D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/hwproject/build-temp-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/hwproject/build-temp-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/hwproject/build-temp-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/hwproject/build-temp-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/hwproject/build-temp-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/hwproject/build-temp-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/temp_autogen_timestamp_deps.dir
+D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/hwproject/build-temp-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/CMakeFiles/temp_autogen.dir

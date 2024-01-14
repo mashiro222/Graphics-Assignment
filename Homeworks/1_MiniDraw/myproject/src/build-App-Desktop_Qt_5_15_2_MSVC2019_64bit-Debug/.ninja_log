@@ -1,0 +1,23 @@
+# ninja log v5
+1	206	7160494606134664	App_autogen/timestamp	27754f2de171b63f
+1	206	7160494606134664	App_autogen/mocs_compilation.cpp	27754f2de171b63f
+1	206	7160494606134664	D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/myproject/src/build-App-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/App_autogen/timestamp	27754f2de171b63f
+1	206	7160494606134664	D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/myproject/src/build-App-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/App_autogen/mocs_compilation.cpp	27754f2de171b63f
+206	954	7160494613982971	CMakeFiles/App.dir/App_autogen/mocs_compilation.cpp.obj	f25520b3811b4ceb
+214	1024	7160494614686620	CMakeFiles/App.dir/main.cpp.obj	fa612ec5a86bb3b6
+210	1033	7160494614763502	CMakeFiles/App.dir/mainwindow.cpp.obj	dcd63b67d4c2b995
+1033	1361	7160494617958047	App.exe	5e815e05be55849e
+5	199	7160497504367239	App_autogen/timestamp	27754f2de171b63f
+5	199	7160497504367239	App_autogen/mocs_compilation.cpp	27754f2de171b63f
+5	199	7160497504367239	D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/myproject/src/build-App-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/App_autogen/timestamp	27754f2de171b63f
+5	199	7160497504367239	D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/myproject/src/build-App-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/App_autogen/mocs_compilation.cpp	27754f2de171b63f
+204	1272	7160497515466295	CMakeFiles/App.dir/main.cpp.obj	fa612ec5a86bb3b6
+208	1278	7160497515506357	CMakeFiles/App.dir/mainwindow.cpp.obj	dcd63b67d4c2b995
+200	1283	7160497515566157	CMakeFiles/App.dir/App_autogen/mocs_compilation.cpp.obj	f25520b3811b4ceb
+1283	1561	7160497517983866	App.exe	5e815e05be55849e
+4	109	7160498207834857	App_autogen/timestamp	27754f2de171b63f
+4	109	7160498207834857	App_autogen/mocs_compilation.cpp	27754f2de171b63f
+4	109	7160498207834857	D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/myproject/src/build-App-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/App_autogen/timestamp	27754f2de171b63f
+4	109	7160498207834857	D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/myproject/src/build-App-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/App_autogen/mocs_compilation.cpp	27754f2de171b63f
+111	1084	7160498217550729	CMakeFiles/App.dir/mainwindow.cpp.obj	dcd63b67d4c2b995
+1084	1285	7160498219193572	App.exe	5e815e05be55849e

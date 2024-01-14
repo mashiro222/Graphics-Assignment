@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6b20eeeeb8032236bb3a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "App",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "App::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-App-Debug-de176533ea7ed090a1e4.json",
+					"name" : "App",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "App_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-App_autogen-Debug-20599653f3c989e8dffc.json",
+					"name" : "App_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "App_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-App_autogen_timestamp_deps-Debug-7cff9a62c891847fb51f.json",
+					"name" : "App_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/hwproject/src/build-App-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug",
+		"source" : "D:/USTC/ComputerGraphing/USTC_CG/Homeworks/1_MiniDraw/hwproject/src/App"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
